@@ -15,14 +15,14 @@ const data =[
     },
     {
         id:1,
-        title:"Presentation",
+        title:"Static Resume",
         desc:"powerpoint based",
         img:"/images/project2-pic.jpeg",
         tags:["powerpoint tool"],
     },
     {
         id:2,
-        title:"Shareable Resume",
+        title:"Presentation",
         desc:"An HTML and typescript based",
         img:"/images/project3-pic.jpeg",
         tags:["Html","Typescript"],

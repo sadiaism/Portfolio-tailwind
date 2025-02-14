@@ -12,7 +12,7 @@ const Contact = () => {
 
                 </p>
                 <div className='flex gap-3 items-center'>
-                    <IoMailOutline size={30} /> ismailmoiz80@gmail.com
+                    <IoMailOutline size={30} /> abc80@gmail.com
                 </div>
                 <div className='flex gap-3 items-center'>
                 <BsFillTelephoneFill size={30} /> (021) 000-0000
